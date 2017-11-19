@@ -1,0 +1,8 @@
+====================== HTK Results Analysis =======================
+  Date: Sun Nov 19 15:41:25 2017
+  Ref : >oA\Engineering\Semester 2017 S2\Project\MOD\HTK true\MLFs\WordMLF.mlf
+  Rec : >UoA\Engineering\Semester 2017 S2\Project\MOD\HTK true\MLFs\RecMLF.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=40.62 [H=1827, S=2671, N=4498]
+WORD: %Corr=40.62, Acc=40.62 [H=1827, D=0, S=2671, I=0, N=4498]
+===================================================================
